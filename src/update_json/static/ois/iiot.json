@@ -1,0 +1,147 @@
+{
+    
+    "2016/17" : {
+        "round_name": "Internazionali (IIOT - ITOI - IOIT)",
+        "tasks": [
+            {
+                "name": "ioit_spam",
+                "title": "Science Against Spam"
+            },
+            {
+                "name": "ioit_proxies",
+                "title": "Masters and Slaves"
+            },
+            {
+                "name": "ioit_paintings",
+                "title": "Moving Paintings"
+            },
+            {
+                "name": "ioit_neighborly",
+                "title": "Friendly Note"
+            },
+            {
+                "name": "ioit_manhole",
+                "title": "City Flooding"
+            },
+            {
+                "name": "ioit_laser",
+                "title": "Intrusion Detection System"
+            },
+            {
+                "name": "ioit_dreamteam",
+                "title": "DreamTeam Selection"
+            }
+        ]
+    },
+    "2020/21" : {
+        "round_name": "Internazionali (IIOT - ITOI - IOIT)",
+        "tasks": [
+            {
+                "name": "itoi_weakhash",
+                "title": "Weak Hash Function"
+            },
+            {
+                "name": "itoi_vsmovies",
+                "title": "VS-Movies Group"
+            },
+            {
+                "name": "itoi_trap",
+                "title": "Musical Fight"
+            },
+            {
+                "name": "itoi_tasks",
+                "title": "Map of Tasks"
+            },
+            {
+                "name": "itoi_selection",
+                "title": "Multiselect"
+            },
+            {
+                "name": "itoi_run",
+                "title": "Marathon Training"
+            },
+            {
+                "name": "itoi_morse",
+                "title": "All the Emojis!"
+            },
+            {
+                "name": "itoi_chimneys",
+                "title": "Chimney Service"
+            }
+        ]
+    },
+    "2021/22" : {
+        "round_name": "Internazionali (IIOT - ITOI - IOIT)",
+        "tasks": [
+            {
+                "name": "stonks",
+                "title": "Big Stonks"
+            },
+            {
+                "name": "plagiarism",
+                "title": "Plagiarism Detection"
+            },
+            {
+                "name": "picnic",
+                "title": "Picnic's Table"
+            },
+            {
+                "name": "nostar",
+                "title": "Connect the Dots"
+            },
+            {
+                "name": "icecream",
+                "title": "Best Ice Cream Flavours"
+            },
+            {
+                "name": "glass",
+                "title": "Glassworks"
+            },
+            {
+                "name": "discount",
+                "title": "Discount Optimisation"
+            }
+        ]
+    },
+    "2022/23" : {
+        "round_name": "Internazionali (IIOT - ITOI - IOIT)",
+        "tasks": [
+            {
+                "name": "iiot_tourdetree",
+                "title": "Tour de Treeland"
+            },
+            {
+                "name": "iiot_tetris",
+                "title": "Winning Tetris"
+            },
+            {
+                "name": "iiot_publictransport",
+                "title": "Public Transport"
+            },
+            {
+                "name": "iiot_matgame",
+                "title": "Game on a Matrix"
+            },
+            {
+                "name": "iiot_ktree",
+                "title": "Rank Queries on a Tree"
+            },
+            {
+                "name": "iiot_fence",
+                "title": "Problem Fence"
+            },
+            {
+                "name": "iiot_cipher",
+                "title": "Cyclic Vigenere Cipher"
+            },
+            {
+                "name": "iiot_binge",
+                "title": "Binge Watching"
+            },
+            {
+                "name": "iiot_abc",
+                "title": "Distributing Hat"
+            }
+        ]
+    }
+}

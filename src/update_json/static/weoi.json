@@ -1,0 +1,31 @@
+{
+    "competition": "WEOI",
+    "details": [
+        {
+            "edition": "2023",
+            "rounds": [
+                {
+                    "round_name": "unique",
+                    "tasks": [
+                        {
+                            "name": "weoi_cost",
+                            "title": "Political cost"
+                        },
+                        {
+                            "name": "weoi_numbering",
+                            "title": "Numbering"
+                        },
+                        {
+                            "name": "weoi_tour",
+                            "title": "Shop Tour"
+                        },
+                        {
+                            "name": "weoi_turbulences",
+                            "title": "Plane Turbulences"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "2014" : {
+        "round_name" : "Practice",
+        "tasks" : [
+            {
+                "name": "topologia",
+                "title": "Topologia di rete"
+            },
+            {
+                "name": "cubetti",
+                "title": "Cubetti colorati"
+            },
+            {
+                "name": "kfree",
+                "title": "Insieme K-free"
+            }
+        ]
+    }
+}

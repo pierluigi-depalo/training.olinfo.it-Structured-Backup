@@ -1,0 +1,263 @@
+{
+    "2003" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "giostre",
+                "title": "Giostre"
+            }
+        ]
+    },
+    "2004" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "poldo",
+                "title": "La dieta di Poldo"
+            }
+        ]
+    },
+    "2005" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "sunny",
+                "title": "Sunnydale"
+            }
+        ]
+    },
+    "2006" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2007" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2008" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "pizzini",
+                "title": "Codici e pizzini"
+            },
+            {
+                "name": "missioni",
+                "title": "Missioni segrete"
+            },
+            {
+                "name": "mappa",
+                "title": "Mappa antica"
+            }
+        ]
+    },
+    "2009" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "depura",
+                "title": "Depurazione dell'acqua"
+            },
+            {
+                "name": "essenza",
+                "title": "Essenza per profumi"
+            },
+            {
+                "name": "treno",
+                "title": "Treno di container"
+            }
+        ]
+    },
+    "2010" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "quasipal",
+                "title": "Quasi-palindromi"
+            },
+            {
+                "name": "tamburello",
+                "title": "Sequenza per tamburello"
+            },
+            {
+                "name": "sbarramento",
+                "title": "Sbarramento tattico"
+            }
+        ]
+    },
+    "2011" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "domino",
+                "title": "Domino massimale"
+            },
+            {
+                "name": "nanga",
+                "title": "Nanga Parbat"
+            },
+            {
+                "name": "galattici",
+                "title": "Eserciti galattici"
+            }
+        ]
+    },
+    "2012" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "grandprix",
+                "title": "Grandprix"
+            },
+            {
+                "name": "turni",
+                "title": "Turni"
+            },
+            {
+                "name": "barbablu",
+                "title": "Barbablu"
+            }
+        ]
+    },
+    "2013" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2014" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "collatz",
+                "title": "La congettura di Collatz"
+            },
+            {
+                "name": "sommelier",
+                "title": "Corso per sommelier"
+            },
+            {
+                "name": "mojito",
+                "title": "Giochiamo con Mojito"
+            }
+        ]
+    },
+    "2015" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "semiprimo",
+                "title": "Numero semiprimo"
+            },
+            {
+                "name": "disuguaglianze",
+                "title": "Rispetta i versi"
+            },
+            {
+                "name": "footing",
+                "title": "Corsa mattutina"
+            }
+        ]
+    },
+    "2016" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "sentieri",
+                "title": "Sentieri bollenti"
+            },
+            {
+                "name": "spartizione",
+                "title": "La spartizione di Tot\u00f2"
+            },
+            {
+                "name": "discesa",
+                "title": "Discesa massima"
+            }
+        ]
+    },
+    "2017" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "tecla",
+                "title": "Appetito aracnide"
+            },
+            {
+                "name": "scommessa",
+                "title": "Sport intellettuali"
+            },
+            {
+                "name": "lwf",
+                "title": "Crittografia LWF"
+            }
+        ]
+    },
+    "2018" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2019" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2020" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2021" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2022" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    },
+    "2023" : {
+        "round_name": "Territoriale",
+        "tasks": [
+            {
+                "name": "",
+                "title": ""
+            }
+        ]
+    }
+}

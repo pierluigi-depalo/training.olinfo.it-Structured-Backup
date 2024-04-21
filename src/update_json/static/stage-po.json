@@ -1,0 +1,85 @@
+{
+    "competition": "Stage-po",
+    "details": [
+        {
+            "edition": "Others",
+            "rounds": [
+                {
+                    "round_name": "unique",
+                    "tasks": [
+                        {
+                            "name": "subtreemode",
+                            "title": "Subtrees' mode"
+                        },
+                        {
+                            "name": "juice",
+                            "title": "Magic tree"
+                        },
+                        {
+                            "name": "figurines",
+                            "title": "Memory exercises"
+                        },
+                        {
+                            "name": "divisors",
+                            "title": "Maybe you already know this problem"
+                        },
+                        {
+                            "name": "lca",
+                            "title": "Lowest Common Ancestor"
+                        },
+                        {
+                            "name": "segtree",
+                            "title": "Implement a segment tree"
+                        },
+                        {
+                            "name": "dijkstra",
+                            "title": "Dijkstra"
+                        },
+                        {
+                            "name": "mst",
+                            "title": "Minimum spanning tree"
+                        },
+                        {
+                            "name": "talmart",
+                            "title": "Talmart"
+                        },
+                        {
+                            "name": "race",
+                            "title": "Box Car Race"
+                        },
+                        {
+                            "name": "pozzo",
+                            "title": "Il pozzo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "edition": "2023",
+            "rounds": [
+                {
+                    "round_name": "Stage 2 - Gara 3",
+                    "tasks": [
+                        {
+                            "name": "baguette",
+                            "title": "Baguette Magique"
+                        },
+                        {
+                            "name": "bigplus",
+                            "title": "Bigplus"
+                        },
+                        {
+                            "name": "cioccolatini",
+                            "title": "Raccolta di cioccolatini"
+                        },
+                        {
+                            "name": "movingfaster",
+                            "title": "Moving Faster"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

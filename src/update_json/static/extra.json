@@ -1,0 +1,274 @@
+{
+    "competition": "Extra",
+    "details": [
+        {
+            "edition": "unique",
+            "rounds": [
+                {
+                    "round_name": "unique",
+                    "tasks": [
+                        {
+                            "name": "solitario2",
+                            "title": "Tris in solitaria 2"
+                        },
+                        {
+                            "name": "muraglia",
+                            "title": "Grande Muraglia"
+                        },
+                        {
+                            "name": "autogrill",
+                            "title": "Soste in autostrada"
+                        },
+                        {
+                            "name": "bigsomma",
+                            "title": "Trova la somma (fast input)"
+                        },
+                        {
+                            "name": "array",
+                            "title": "Operazioni su array"
+                        },
+                        {
+                            "name": "massimo",
+                            "title": "Trova il massimo"
+                        },
+                        {
+                            "name": "mincammino",
+                            "title": "Cammino minimo"
+                        },
+                        {
+                            "name": "cestini",
+                            "title": "La camera dei cestini"
+                        },
+                        {
+                            "name": "catalogo",
+                            "title": "Tieni aggiornato il catalogo"
+                        },
+                        {
+                            "name": "pari",
+                            "title": "Trova la parit\u00e0"
+                        },
+                        {
+                            "name": "cameradeisegreti",
+                            "title": "Camera dei Segreti"
+                        },
+                        {
+                            "name": "mastermind",
+                            "title": "Mastermind"
+                        },
+                        {
+                            "name": "fpb",
+                            "title": "Festival del GCD"
+                        },
+                        {
+                            "name": "ctf",
+                            "title": "Rubabandiera v2"
+                        },
+                        {
+                            "name": "mariusz",
+                            "title": "Mariusz's Stack"
+                        },                  
+                        {
+                            "name": "vim",
+                            "title": "Vortex Improved Motors"
+                        },
+                        {
+                            "name": "espressioni",
+                            "title": "Espressioni"
+                        },
+                        {
+                            "name": "barili",
+                            "title": "Barili d'acqua"
+                        },
+                        {
+                            "name": "piastrelle",
+                            "title": "Piastrellature"
+                        },
+                        {
+                            "name": "ponti",
+                            "title": "Ponti"
+                        },
+                        {
+                            "name": "crittografia",
+                            "title": "Crittografia"
+                        },
+                        {
+                            "name": "torri",
+                            "title": "Torri"
+                        },
+                        {
+                            "name": "pazzo",
+                            "title": "Tecnico pazzo"
+                        },
+                        {
+                            "name": "vasi2",
+                            "title": "Mattia e i suoi vasi 2.0"
+                        },
+                        {
+                            "name": "vasi",
+                            "title": "Mattia e i suoi vasi"
+                        },
+                        {
+                            "name": "triangoli",
+                            "title": "Triangoli pienotti"
+                        },
+                        {
+                            "name": "suffarr",
+                            "title": "Suffix Array"
+                        },
+                        {
+                            "name": "subs",
+                            "title": "Massima sottostringa"
+                        },
+                        {
+                            "name": "papa",
+                            "title": "Pap\u00e0?"
+                        },
+                        {
+                            "name": "padrun",
+                            "title": "Controllare l'accampamento"
+                        },
+                        {
+                            "name": "cotte",
+                            "title": "Cottarelle in classe"
+                        },
+                        {
+                            "name": "andrea_birthday",
+                            "title": "Andrea's Birthday"
+                        },
+                        {
+                            "name": "shiftmul",
+                            "title": "Cicla e moltiplica"
+                        },
+                        {
+                            "name": "easy3",
+                            "title": "Trova la somma pari massima v2.0"
+                        },
+                        {
+                            "name": "easy2",
+                            "title": "Trova la somma pari massima"
+                        },
+                        {
+                            "name": "easy1",
+                            "title": "Trova il massimo"
+                        },
+                        {
+                            "name": "rangetree3",
+                            "title": "Can you answer these queries III"
+                        },
+                        {
+                            "name": "rangetree2",
+                            "title": "Multiples of 3"
+                        },
+                        {
+                            "name": "rangetree1",
+                            "title": "Flipping Coins"
+                        },
+                        {
+                            "name": "fenwick2",
+                            "title": "All Possible Increasing Subsequences"
+                        },
+                        {
+                            "name": "fenwick1",
+                            "title": "Place"
+                        },
+                        {
+                            "name": "regions",
+                            "title": "Regions"
+                        },
+                        {
+                            "name": "minato",
+                            "title": "Campo minato"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "Codeforces - Codeforces BETA",
+                    "tasks": [
+                        {
+                            "name": "ristorante",
+                            "title": "Ristorante"
+                        },
+                        {
+                            "name": "sweetsgame",
+                            "title": "Sweets Game"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "TOP Coder",
+                    "tasks": [
+                        {
+                            "name": "zigzag",
+                            "title": "ZigZag"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "Manthan 2011",
+                    "tasks": [
+                        {
+                            "name": "sequenceofballs",
+                            "title": "Sequence of Balls"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "COCI 2016-2017",
+                    "tasks": [
+                        {
+                            "name": "klavir",
+                            "title": "Klavir"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "Gara della Giornata dell’Informatica 2024",
+                    "tasks": [
+                        {
+                            "name": "itday_piante",
+                            "title": "Giardino di Budrio"
+                        },
+                        {
+                            "name": "itday_carte",
+                            "title": "Mazzi di carte"
+                        },
+                        {
+                            "name": "itday_cesena",
+                            "title": "Il crescione perfetto"
+                        },
+                        {
+                            "name": "itday_stalker",
+                            "title": "Lavinia stalker"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "Ukrainian Olympiad in Informatics 2023",
+                    "tasks": [
+                        {
+                            "name": "uoi_mosio",
+                            "title": "House Numbering"
+                        }
+                    ]
+                },
+                {
+                    "round_name": "PreOII del Friuli",
+                    "tasks": [
+                        {
+                            "name": "fri_terrazzamenti",
+                            "title": "Terrazzamenti"
+                        },
+                        {
+                            "name": "fri_tubature",
+                            "title": "Rete idrica"
+                        },
+                        {
+                            "name": "fri_monete",
+                            "title": "Mario e le sue monete"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

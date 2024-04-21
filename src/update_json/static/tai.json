@@ -1,0 +1,55 @@
+{
+    "competition" : "TAI",
+    "details": [
+        {
+            "edition" : "unique",
+            "rounds" : [
+                {
+                    "round_name" : "unique",
+                    "tasks": [
+                        {
+                            "name": "tai_scavi",
+                            "title": "Scavi fortunati"
+                        },
+                        {
+                            "name": "tai_mle",
+                            "title": "Murale"
+                        },
+                        {
+                            "name": "tai_monete",
+                            "title": "Pila di monete"
+                        },
+                        {
+                            "name": "tai_gita",
+                            "title": "Gita Turistica"
+                        },
+                        {
+                            "name": "tai_cct2",
+                            "title": "Corsa Contro il Tempo 2"
+                        },
+                        {
+                            "name": "tai_lunapark",
+                            "title": "Luna Park"
+                        },
+                        {
+                            "name": "tai_hasta",
+                            "title": "Hasta Siempre, Comandante Chen Guevara!"
+                        },
+                        {
+                            "name": "tai_sfere",
+                            "title": "Sfere numerate"
+                        },
+                        {
+                            "name": "tai_perm",
+                            "title": "Permutazioni"
+                        },
+                        {
+                            "name": "cct",
+                            "title": "Corsa contro il tempo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "2003" : {
+        "round_name" : "Nazionale",
+        "tasks" : [
+            {
+                "name": "alberi",
+                "title": "Alberi"
+            }
+        ]
+    },
+    "2006" : {
+        "round_name" : "Nazionale",
+        "tasks" : [
+            {
+                "name": "slalom",
+                "title": "Slalom tra le telecamere"
+            },
+            {
+                "name": "sponsor",
+                "title": "Sponsor e atleti"
+            },
+            {
+                "name": "curling",
+                "title": "Partite di curling"
+            }
+        ]
+    },
+    "2014" : {
+        "round_name" : "Allenamento preoii",
+        "tasks" : [
+            {
+                "name": "noccioline",
+                "title": "Secchi di noccioline"
+            },
+            {
+                "name": "scontri",
+                "title": "Scontri equilibrati"
+            },
+            {
+                "name": "trasporti",
+                "title": "Trasporti pericolosi"
+            },
+            {
+                "name": "skyline",
+                "title": "Skyline"
+            }
+        ]
+    },
+    "2015" : {
+        "round_name" : "Allenamento preoii",
+        "tasks" : [
+            {
+                "name": "po_skyline2",
+                "title": "Skyline"
+            },
+            {
+                "name": "po_pietre",
+                "title": "Collezione di pietre"
+            },
+            {
+                "name": "po_trabucco",
+                "title": "Incendia lo trabucco"
+            }
+        ]
+    },
+    "2016" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_got",
+                "title": "Un tragitto impegnativo (A challenging route)"
+            },
+            {
+                "name": "preoii_pokemongo",
+                "title": "Analizza la palestra (Gym processing)"
+            },
+            {
+                "name": "preoii_pota",
+                "title": "Esame di Aritmanzia (Arithmancy Exam)"
+            }
+        ]
+    },
+    "2017" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_yutaka",
+                "title": "Sushi variegato"
+            },
+            {
+                "name": "preoii_snake",
+                "title": "Partita a Snake"
+            },
+            {
+                "name": "preoii_pancake",
+                "title": "Gira i pancake"
+            },
+            {
+                "name": "preoii_nodispeciali",
+                "title": "Sede Centrale"
+            }
+        ]
+    },
+    "2018" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_treni",
+                "title": "Treni"
+            },
+            {
+                "name": "preoii_piccioni",
+                "title": "Piccioni in migrazione"
+            },
+            {
+                "name": "preoii_flow",
+                "title": "Flow free"
+            },
+            {
+                "name": "preoii_catene",
+                "title": "Grande Mago VIP"
+            }
+        ]
+    },
+    "2019" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_porcellino",
+                "title": "Fontana del Porcellino"
+            },
+            {
+                "name": "preoii_incontri2",
+                "title": "Incontri inaspettati II"
+            },
+            {
+                "name": "preoii_crew",
+                "title": "Dario e la Crew"
+            },
+            {
+                "name": "preoii_biliardino",
+                "title": "Biliardino"
+            }
+        ]
+    },
+    "2020" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_sushi",
+                "title": "Truffa al sushi"
+            },
+            {
+                "name": "preoii_mascherine",
+                "title": "Mascherine sporche"
+            },
+            {
+                "name": "preoii_account",
+                "title": "Password dimenticata"
+            }
+        ]
+    },
+    "2021" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+            "name": "preoii_vm",
+            "title": "Aggiornamento della macchina virtuale"
+        },
+        {
+            "name": "preoii_permutazione2",
+            "title": "Trova la permutazione"
+        },
+        {
+            "name": "preoii_armadio",
+            "title": "Evasione dall'armadio"
+        },
+        {
+            "name": "preoii_allenamento",
+            "title": "Allenamento su ChinaForces"
+        }
+        ]
+    },
+    "2022" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_statue",
+                "title": "Galleria d'arte"
+            },
+            {
+                "name": "preoii_sets",
+                "title": "Insiemi nell'armadio"
+            },
+            {
+                "name": "preoii_triplets",
+                "title": "Comune di Alleib"
+            }
+        ]
+    },
+    "2023" : {
+        "round_name": "preoii",
+        "tasks": [
+            {
+                "name": "preoii_chquery",
+                "title": "Esplorazione spaziale"
+            },
+            {
+                "name": "preoii_lampadine",
+                "title": "Circuito elettrico"
+            },
+            {
+                "name": "preoii_voli",
+                "title": "Ritorno dal Giappone"
+            },
+            {
+                "name": "preoii_streaming",
+                "title": "B.F.S."
+            },
+            {
+                "name": "preoii_foto",
+                "title": "Foto d'epoca"
+            }
+        ]
+    }
+}
