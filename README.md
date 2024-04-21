@@ -18,4 +18,10 @@ Basterà attendere l'aggiornamento dei file per poter poi procedere con il downl
 
 Ad ogni esecuzione dello script con sorgente dei dati locale (per impostarlo su online basterà cambiare il valore di ONLINE con False nello script) si riceverà un log di quanti problemi non sono ancora stati collocati in una determinata competizione / gara.
 
-Chiunque è libero di contribuire all'aggiornamento dei file json al fine di garantire una continuità al progetto
+La lista di questi problemi sarà presente in
+
+> files -> remaining.json
+
+Al fine di poterli visionare e categorizzare.
+
+Chiunque è libero di contribuire all'aggiornamento dei file json al fine di garantire una continuità al progetto.

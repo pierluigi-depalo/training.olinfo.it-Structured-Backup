@@ -155,7 +155,7 @@ def update():
     with open(os.path.join(OUTPUT_DIRECTORY, "all_tasks.json"), "w") as f:
         f.write(json.dumps(training_tasks, indent=4))
 
-    print("Problemi non ancora categorizzati:", len(remaining))
+    print("Problemi non ancora collocati in una determinata gara:", len(remaining))
     with open(os.path.join(OUTPUT_DIRECTORY, "remaining.json"), "w") as f:
         f.write(json.dumps(remaining, indent=4))
 
