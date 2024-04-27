@@ -131,8 +131,8 @@ def backup():
     download_solved_problems_by_competition(cookie, solved_problems)
 
 def update():
-    OUTPUT_DIRECTORY = "./files/"
-
+    OUTPUT_DIRECTORY = os.path.join(os.path.dirname(__file__), "files")
+    os.mkdir(OUTPUT_DIRECTORY) 
     oii = load_oii.load(OUTPUT_DIRECTORY)
     ois = load_ois.load(OUTPUT_DIRECTORY)
 
